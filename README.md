@@ -1,4 +1,4 @@
-# 📦 mcp – Multi‑Component Platform
+# 📦 mcp – Model Context Protocol
 
 ---
 
