@@ -1,0 +1,2 @@
+This is a test file created inside claude_output.
+I Successfully made my first MCP Server :)

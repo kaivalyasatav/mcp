@@ -1,0 +1,6 @@
+Summary of the first lines of Wikipedia's "Airplane" article:
+- An airplane (American English), or aeroplane (Commonwealth English), is a fixed‑wing aircraft propelled by thrust from a jet engine, propeller, or rocket. Airplanes vary widely in size, shape, and wing configuration and are used for recreation, transport of people and goods, military purposes, and research.
+- Commercial aviation carries over four billion passengers annually and transports more than 200 billion tonne‑kilometers of cargo each year (under 1% of global cargo movement).
+- Most airplanes are flown by an onboard pilot, though some are remotely or computer‑controlled (drones).
+- The Wright brothers made the first sustained, controlled, powered flight in 1903, building on earlier work by George Cayley (from 1799) and Otto Lilienthal (1867–1896). Airplanes played roles in both World Wars.
+- Milestones: first jet aircraft Heinkel He 178 (1939); first jet airliner de Havilland Comet (1952); Boeing 707 became the first widely successful commercial jet (1958–2019).
